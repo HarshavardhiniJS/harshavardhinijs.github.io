@@ -1,12 +1,18 @@
+# Portfolio
+
 ## Selected projects in data science, machine learning and PowerBI
 ---
 
 ### MACHINE LEARNING REGRESSION MODEL - TO PREDICT THE DEMAND FOR BIKES BASED ON ENVIRONMENTAL AND SEASONAL SETTINGS
 Conducted Exploratory Data Analysis to uncover bike usage trends and patterns. Developed a Multiple Linear Regression model to identify the demand dynamics of a new market. Developed a Multiple Linear Regression model using Random Forest Regression
 
-[View Code in GitHub](https://github.com/HarshavardhiniJS/ML-regression)
-<img src="images//ML-reg-pic1-thumbnail.png"/>
 
+<img src="images//ML-reg-pic1-thumbnail.png"/>
+<img src="images/ML-reg-pic2-thumbnail.png"/>
+
+[View Code in GitHub](https://github.com/HarshavardhiniJS/ML-regression)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/numpy-white)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/sklearn-white)](#) 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
