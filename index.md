@@ -56,15 +56,3 @@ Conducted in-depth SQL analysis for RSVP Movies, uncovering key trends and deliv
 
 STUDY OF BIOMETRICAL CHARACTERS ON RICE USING MULTIPLE LINEAR REGRESSION MODELS IN THE INTERNATIONAL JOURNAL OF CURRENT MICROBIOLOGY AND APPLIED SCIENCE, January 2021, Harshavardhini, J. S., R. Vasanthi, N. Thavaprakaash, Kalpana, M., Int.J.Curr.Microbiol.App.Sci., 10(1), 2910-2915, [https://doi.org/10.20546/ijcmas.2021.1001.337](https://doi.org/10.20546/ijcmas.2021.1001.337)
 
----
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
