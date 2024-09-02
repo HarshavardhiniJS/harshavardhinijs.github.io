@@ -1,5 +1,5 @@
 # Portfolio
-
+---
 ## Projects in data science, machine learning and PowerBI
 ---
 
@@ -24,8 +24,9 @@ Analyzed post-pandemic Airbnb user trends, uncovering critical insights that led
 [![](https://img.shields.io/badge/PowerBI)](#)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [LEAD SCORE CASE STUDY-LOGISTIC REGRESSION ANALYSIS] (https://github.com/HarshavardhiniJS/Lead-scoring-case-study)
+Conducted a detailed Exploratory Data Analysis (EDA), uncovering key patterns that highlighted the top 20% of leads most likely to convert for an education company. Developed a Logistic Regression model that accurately assigned lead scores, improving lead prioritization and resulting in a 30% increase in lead conversion rates. Evaluated model performance with a Precision of 85% and a Recall of 80%, optimizing for Sensitivity and Specificity, which improved targeting efficiency by 25%
+
 
 ---
 
