@@ -44,6 +44,14 @@ Conducted comprehensive EDA to evaluate loan authorization risks for banks. Anal
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/numpy-white)](#) [![](https://img.shields.io/badge/pandas-white)](#) [![](https://img.shields.io/badge/seoborn-white)](#) [![](https://img.shields.io/badge/matplotlib-white)](#) 
 ---
+
+### [RSVP MOVIES - SQL CASE STUDY](https://github.com/HarshavardhiniJS/RSVP-Movie-SQL-casestudy)
+Conducted in-depth SQL analysis for RSVP Movies, uncovering key trends and delivering actionable insights. Enhanced strategic decision-making and optimized movie-related strategies.
+
+[View Code in GitHub](https://github.com/HarshavardhiniJS/RSVP-Movie-SQL-casestudy)
+
+[![](https://img.shields.io/badge/MySQL-white)](#) [![](https://img.shields.io/badge/SQL-white)](#) 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
