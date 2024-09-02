@@ -27,7 +27,7 @@ Analyzed post-pandemic Airbnb user trends, uncovering critical insights that led
 ### [LEAD SCORE CASE STUDY-LOGISTIC REGRESSION ANALYSIS](https://github.com/HarshavardhiniJS/Lead-scoring-case-study/blob/main/Presentation.pdf)
 Conducted a detailed Exploratory Data Analysis (EDA), uncovering key patterns that highlighted the top 20% of leads most likely to convert for an education company. Developed a Logistic Regression model that accurately assigned lead scores, improving lead prioritization and resulting in a 30% increase in lead conversion rates. Evaluated model performance with a Precision of 85% and a Recall of 80%, optimizing for Sensitivity and Specificity, which improved targeting efficiency by 25%
 
-<img src="https://github.com/HarshavardhiniJS/harshavardhinijs.github.io/blob/master/images/lead-score-proj-pic1.png" width="700"/>
+<img src="images/lead-score-proj-pic1.png" width="700"/>
 
 [View Code in GitHub](https://github.com/HarshavardhiniJS/Lead-scoring-case-study)
 
@@ -37,8 +37,8 @@ Conducted a detailed Exploratory Data Analysis (EDA), uncovering key patterns th
 ### [EXPLORATORY DATA ANALYSIS (EDA) - RISK ANALYSIS FOR BANK LOAN](https://github.com/HarshavardhiniJS/EDA-Risk_Analysis)
 Conducted comprehensive EDA to evaluate loan authorization risks for banks. Analyzed datasets of loan defaulters and current applicants, identifying critical risk factors. Enhanced risk prediction accuracy also by reducing potential defaults by 30%. The analysis provided a streamlined loan approval processes, additionally, boosting efficiency by 25%. 
 
-<img src="https://github.com/HarshavardhiniJS/harshavardhinijs.github.io/blob/master/images/EDA-proj-pic1.png" width="300"/>
-<img src="https://github.com/HarshavardhiniJS/harshavardhinijs.github.io/blob/master/images/EDA-proj-pic2.png" width="300"/>
+<img src="images/EDA-proj-pic1.png" width="300"/>
+<img src="images/EDA-proj-pic2.png" width="300"/>
 
 [View Code in GitHub](https://github.com/HarshavardhiniJS/EDA-Risk_Analysis)
 
