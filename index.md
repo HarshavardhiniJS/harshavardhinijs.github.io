@@ -21,7 +21,7 @@ Analyzed post-pandemic Airbnb user trends, uncovering critical insights that led
 
 [View in GitHub](https://github.com/HarshavardhiniJS/PowerBI-Airbnb)
 
-[![](https://img.shields.io/badge/PowerBI)](#)
+[![](https://img.shields.io/badge/PowerBI-white)](#)
 
 ---
 ### [LEAD SCORE CASE STUDY-LOGISTIC REGRESSION ANALYSIS] (https://github.com/HarshavardhiniJS/Lead-scoring-case-study)
