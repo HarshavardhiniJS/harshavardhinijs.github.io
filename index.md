@@ -7,8 +7,8 @@
 Conducted Exploratory Data Analysis to uncover bike usage trends and patterns. Developed a Multiple Linear Regression model to identify the demand dynamics of a new market. Developed a Multiple Linear Regression model using Random Forest Regression
 
 
-<img src="images//ML-reg-pic1-thumbnail.png"/>
-<img src="images/ML-reg-pic2-thumbnail.png"/>
+<img src="images//ML-reg-pic1-thumbnail.png" width="20px"/>
+<img src="images/ML-reg-pic2-thumbnail.png" width="30px"/>
 
 [View Code in GitHub](https://github.com/HarshavardhiniJS/ML-regression)
 
