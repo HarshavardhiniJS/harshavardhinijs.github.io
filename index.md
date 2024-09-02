@@ -2,9 +2,10 @@
 ---
 
 ### MACHINE LEARNING REGRESSION MODEL - TO PREDICT THE DEMAND FOR BIKES BASED ON ENVIRONMENTAL AND SEASONAL SETTINGS
-Conducted Exploratory Data Analysis to uncover bike usage trends and patterns. Developed a Multiple Linear Regression model, achieving an R-squared value of 0.92, explaining 92% of the variance. Enhanced prediction accuracy with a Mean Absolute Error of 0.5. Optimized performance using Random Forest Regression, achieving an RMSE of 0.3, demonstrating exceptional model effectiveness
-[](https://github.com/HarshavardhiniJS/ML-regression)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Conducted Exploratory Data Analysis to uncover bike usage trends and patterns. Developed a Multiple Linear Regression model to identify the demand dynamics of a new market. Developed a Multiple Linear Regression model using Random Forest Regression
+
+[View Code in GitHub](https://github.com/HarshavardhiniJS/ML-regression)
+<img src="images/ML-reg-pic1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
