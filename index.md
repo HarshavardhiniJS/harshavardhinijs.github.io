@@ -12,7 +12,7 @@ Analyzed 20 stocks in various sectors for a period of 10 years with S&P500 index
 
 [View Code in GitHub](https://github.com/HarshavardhiniJS/Stock-Market-Portfolio-Analysis/)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/numpy-white)](#) [![](https://img.shields.io/badge/pandas-white)](#) [![](https://img.shields.io/badge/sklearn-white)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/numpy-white)](#) [![](https://img.shields.io/badge/pandas-white)](#) [![](https://img.shields.io/badge/matplotlib-white)](#)  [![](https://img.shields.io/badge/seaborn-white)](#)  [![](https://img.shields.io/badge/PowerBI-white)](#)
 ---
 
 ### [MACHINE LEARNING REGRESSION MODEL - TO PREDICT THE DEMAND FOR BIKES BASED ON ENVIRONMENTAL AND SEASONAL SETTINGS](https://github.com/HarshavardhiniJS/ML-regression)
