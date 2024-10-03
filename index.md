@@ -2,12 +2,24 @@
 ---
 ## Projects in data science, machine learning and PowerBI
 ---
+### [STOCK MARKET PORTFOLIO ANALYSIS](https://github.com/HarshavardhiniJS/Stock-Market-Portfolio-Analysis/)
+Recommended stocks for the investor’s portfolio based on risk adjusted returns. Predicted the growth of the portfolio for next 5 years based on technical analysis of stocks.
+Analyzed 20 stocks in various sectors for a period of 10 years with S&P500 index returns thereby creating a Power BI dashboard visualization.
+
+<img src="images/Stock-analysis-pic2.png" width="300"/>
+<img src="images/Stock-analysis-pic3.png" width="300"/>
+<img src="images/Stock-analysis-pic1.png" width="300"/>
+
+[View Code in GitHub](https://github.com/HarshavardhiniJS/Stock-Market-Portfolio-Analysis/)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/numpy-white)](#) [![](https://img.shields.io/badge/pandas-white)](#) [![](https://img.shields.io/badge/sklearn-white)](#) 
+---
 
 ### [MACHINE LEARNING REGRESSION MODEL - TO PREDICT THE DEMAND FOR BIKES BASED ON ENVIRONMENTAL AND SEASONAL SETTINGS](https://github.com/HarshavardhiniJS/ML-regression)
 Conducted Exploratory Data Analysis to uncover bike usage trends and patterns. Developed a Multiple Linear Regression model to identify the demand dynamics of a new market. Developed a Multiple Linear Regression model using Random Forest Regression
 
 
-<img src="images//ML-reg-pic1.png" width="300"/>
+<img src="images/ML-reg-pic1.png" width="300"/>
 <img src="images/ML-reg-pic2-thumbnail.png" width="300"/>
 
 [View Code in GitHub](https://github.com/HarshavardhiniJS/ML-regression)
